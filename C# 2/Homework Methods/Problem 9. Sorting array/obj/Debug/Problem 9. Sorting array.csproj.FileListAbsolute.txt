@@ -1,0 +1,6 @@
+C:\Users\Valentin\Desktop\Homework Methods\Problem 9. Sorting array\bin\Debug\Problem_9.Sorting_array.exe.config
+C:\Users\Valentin\Desktop\Homework Methods\Problem 9. Sorting array\bin\Debug\Problem_9.Sorting_array.exe
+C:\Users\Valentin\Desktop\Homework Methods\Problem 9. Sorting array\bin\Debug\Problem_9.Sorting_array.pdb
+C:\Users\Valentin\Desktop\Homework Methods\Problem 9. Sorting array\obj\Debug\Problem 9. Sorting array.csprojResolveAssemblyReference.cache
+C:\Users\Valentin\Desktop\Homework Methods\Problem 9. Sorting array\obj\Debug\Problem_9.Sorting_array.exe
+C:\Users\Valentin\Desktop\Homework Methods\Problem 9. Sorting array\obj\Debug\Problem_9.Sorting_array.pdb

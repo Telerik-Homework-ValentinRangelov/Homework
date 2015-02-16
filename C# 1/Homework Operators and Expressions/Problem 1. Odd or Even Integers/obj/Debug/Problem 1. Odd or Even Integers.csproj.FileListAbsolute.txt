@@ -1,0 +1,6 @@
+C:\Users\Valentin\Desktop\C# Projects and shits xD\Homework Operators and Expressions\Problem 1. Odd or Even Integers\bin\Debug\Problem_1.Odd_or_Even_Integers.exe.config
+C:\Users\Valentin\Desktop\C# Projects and shits xD\Homework Operators and Expressions\Problem 1. Odd or Even Integers\obj\Debug\Problem 1. Odd or Even Integers.csprojResolveAssemblyReference.cache
+C:\Users\Valentin\Desktop\C# Projects and shits xD\Homework Operators and Expressions\Problem 1. Odd or Even Integers\bin\Debug\Problem_1.Odd_or_Even_Integers.exe
+C:\Users\Valentin\Desktop\C# Projects and shits xD\Homework Operators and Expressions\Problem 1. Odd or Even Integers\bin\Debug\Problem_1.Odd_or_Even_Integers.pdb
+C:\Users\Valentin\Desktop\C# Projects and shits xD\Homework Operators and Expressions\Problem 1. Odd or Even Integers\obj\Debug\Problem_1.Odd_or_Even_Integers.exe
+C:\Users\Valentin\Desktop\C# Projects and shits xD\Homework Operators and Expressions\Problem 1. Odd or Even Integers\obj\Debug\Problem_1.Odd_or_Even_Integers.pdb

@@ -1,0 +1,5 @@
+C:\Users\Valentin\Desktop\C# Projects and shits xD\Homework Loops\Problem 16. Decimal to Hexadecimal Number\bin\Debug\Problem_16.Decimal_to_Hexadecimal_Number.exe.config
+C:\Users\Valentin\Desktop\C# Projects and shits xD\Homework Loops\Problem 16. Decimal to Hexadecimal Number\bin\Debug\Problem_16.Decimal_to_Hexadecimal_Number.exe
+C:\Users\Valentin\Desktop\C# Projects and shits xD\Homework Loops\Problem 16. Decimal to Hexadecimal Number\bin\Debug\Problem_16.Decimal_to_Hexadecimal_Number.pdb
+C:\Users\Valentin\Desktop\C# Projects and shits xD\Homework Loops\Problem 16. Decimal to Hexadecimal Number\obj\Debug\Problem_16.Decimal_to_Hexadecimal_Number.exe
+C:\Users\Valentin\Desktop\C# Projects and shits xD\Homework Loops\Problem 16. Decimal to Hexadecimal Number\obj\Debug\Problem_16.Decimal_to_Hexadecimal_Number.pdb

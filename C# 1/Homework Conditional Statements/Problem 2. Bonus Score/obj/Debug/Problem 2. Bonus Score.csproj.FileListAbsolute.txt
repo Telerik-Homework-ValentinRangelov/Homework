@@ -1,0 +1,5 @@
+C:\Users\Valentin\Desktop\C# Projects and shits xD\Homework Conditional Statements\Problem 2. Bonus Score\bin\Debug\Problem_2.Bonus_Score.exe.config
+C:\Users\Valentin\Desktop\C# Projects and shits xD\Homework Conditional Statements\Problem 2. Bonus Score\bin\Debug\Problem_2.Bonus_Score.exe
+C:\Users\Valentin\Desktop\C# Projects and shits xD\Homework Conditional Statements\Problem 2. Bonus Score\bin\Debug\Problem_2.Bonus_Score.pdb
+C:\Users\Valentin\Desktop\C# Projects and shits xD\Homework Conditional Statements\Problem 2. Bonus Score\obj\Debug\Problem_2.Bonus_Score.exe
+C:\Users\Valentin\Desktop\C# Projects and shits xD\Homework Conditional Statements\Problem 2. Bonus Score\obj\Debug\Problem_2.Bonus_Score.pdb

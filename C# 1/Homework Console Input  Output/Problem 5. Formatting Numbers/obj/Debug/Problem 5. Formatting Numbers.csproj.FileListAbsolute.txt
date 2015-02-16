@@ -1,0 +1,6 @@
+C:\Users\Valentin\Desktop\C# Projects and shits xD\Homework Console Input  Output\Problem 5. Formatting Numbers\bin\Debug\Problem_5.Formatting_Numbers.exe.config
+C:\Users\Valentin\Desktop\C# Projects and shits xD\Homework Console Input  Output\Problem 5. Formatting Numbers\obj\Debug\Problem 5. Formatting Numbers.csprojResolveAssemblyReference.cache
+C:\Users\Valentin\Desktop\C# Projects and shits xD\Homework Console Input  Output\Problem 5. Formatting Numbers\bin\Debug\Problem_5.Formatting_Numbers.exe
+C:\Users\Valentin\Desktop\C# Projects and shits xD\Homework Console Input  Output\Problem 5. Formatting Numbers\bin\Debug\Problem_5.Formatting_Numbers.pdb
+C:\Users\Valentin\Desktop\C# Projects and shits xD\Homework Console Input  Output\Problem 5. Formatting Numbers\obj\Debug\Problem_5.Formatting_Numbers.exe
+C:\Users\Valentin\Desktop\C# Projects and shits xD\Homework Console Input  Output\Problem 5. Formatting Numbers\obj\Debug\Problem_5.Formatting_Numbers.pdb

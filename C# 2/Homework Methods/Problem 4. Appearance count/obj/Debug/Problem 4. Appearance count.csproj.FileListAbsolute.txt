@@ -1,0 +1,6 @@
+C:\Users\Valentin\Desktop\Homework Methods\Problem 4. Appearance count\bin\Debug\Problem_4.Appearance_count.exe.config
+C:\Users\Valentin\Desktop\Homework Methods\Problem 4. Appearance count\bin\Debug\Problem_4.Appearance_count.exe
+C:\Users\Valentin\Desktop\Homework Methods\Problem 4. Appearance count\bin\Debug\Problem_4.Appearance_count.pdb
+C:\Users\Valentin\Desktop\Homework Methods\Problem 4. Appearance count\obj\Debug\Problem_4.Appearance_count.exe
+C:\Users\Valentin\Desktop\Homework Methods\Problem 4. Appearance count\obj\Debug\Problem_4.Appearance_count.pdb
+C:\Users\Valentin\Desktop\Homework Methods\Problem 4. Appearance count\obj\Debug\Problem 4. Appearance count.csprojResolveAssemblyReference.cache

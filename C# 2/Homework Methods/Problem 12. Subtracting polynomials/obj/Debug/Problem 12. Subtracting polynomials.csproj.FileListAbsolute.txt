@@ -1,0 +1,5 @@
+C:\Users\Valentin\Desktop\Homework Methods\Problem 12. Subtracting polynomials\bin\Debug\Problem_12.Subtracting_polynomials.exe.config
+C:\Users\Valentin\Desktop\Homework Methods\Problem 12. Subtracting polynomials\bin\Debug\Problem_12.Subtracting_polynomials.exe
+C:\Users\Valentin\Desktop\Homework Methods\Problem 12. Subtracting polynomials\bin\Debug\Problem_12.Subtracting_polynomials.pdb
+C:\Users\Valentin\Desktop\Homework Methods\Problem 12. Subtracting polynomials\obj\Debug\Problem_12.Subtracting_polynomials.exe
+C:\Users\Valentin\Desktop\Homework Methods\Problem 12. Subtracting polynomials\obj\Debug\Problem_12.Subtracting_polynomials.pdb

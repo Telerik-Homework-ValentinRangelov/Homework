@@ -1,0 +1,6 @@
+C:\Users\Valentin\Desktop\Homework Methods\Problem 11. Adding polynomials\bin\Debug\Problem_11.Adding_polynomials.exe.config
+C:\Users\Valentin\Desktop\Homework Methods\Problem 11. Adding polynomials\bin\Debug\Problem_11.Adding_polynomials.exe
+C:\Users\Valentin\Desktop\Homework Methods\Problem 11. Adding polynomials\bin\Debug\Problem_11.Adding_polynomials.pdb
+C:\Users\Valentin\Desktop\Homework Methods\Problem 11. Adding polynomials\obj\Debug\Problem 11. Adding polynomials.csprojResolveAssemblyReference.cache
+C:\Users\Valentin\Desktop\Homework Methods\Problem 11. Adding polynomials\obj\Debug\Problem_11.Adding_polynomials.exe
+C:\Users\Valentin\Desktop\Homework Methods\Problem 11. Adding polynomials\obj\Debug\Problem_11.Adding_polynomials.pdb

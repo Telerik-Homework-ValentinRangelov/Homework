@@ -1,0 +1,5 @@
+C:\Users\Valentin\Desktop\C# Projects and shits xD\Homework Arrays\Problem 3. Compare char arrays\bin\Debug\Problem_3.Compare_char_arrays.exe.config
+C:\Users\Valentin\Desktop\C# Projects and shits xD\Homework Arrays\Problem 3. Compare char arrays\bin\Debug\Problem_3.Compare_char_arrays.exe
+C:\Users\Valentin\Desktop\C# Projects and shits xD\Homework Arrays\Problem 3. Compare char arrays\bin\Debug\Problem_3.Compare_char_arrays.pdb
+C:\Users\Valentin\Desktop\C# Projects and shits xD\Homework Arrays\Problem 3. Compare char arrays\obj\Debug\Problem_3.Compare_char_arrays.exe
+C:\Users\Valentin\Desktop\C# Projects and shits xD\Homework Arrays\Problem 3. Compare char arrays\obj\Debug\Problem_3.Compare_char_arrays.pdb

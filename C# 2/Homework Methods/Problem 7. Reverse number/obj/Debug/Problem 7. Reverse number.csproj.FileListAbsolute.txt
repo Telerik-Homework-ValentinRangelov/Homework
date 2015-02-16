@@ -1,0 +1,6 @@
+C:\Users\Valentin\Desktop\Homework Methods\Problem 7. Reverse number\bin\Debug\Problem_7.Reverse_number.exe.config
+C:\Users\Valentin\Desktop\Homework Methods\Problem 7. Reverse number\obj\Debug\Problem 7. Reverse number.csprojResolveAssemblyReference.cache
+C:\Users\Valentin\Desktop\Homework Methods\Problem 7. Reverse number\bin\Debug\Problem_7.Reverse_number.exe
+C:\Users\Valentin\Desktop\Homework Methods\Problem 7. Reverse number\bin\Debug\Problem_7.Reverse_number.pdb
+C:\Users\Valentin\Desktop\Homework Methods\Problem 7. Reverse number\obj\Debug\Problem_7.Reverse_number.exe
+C:\Users\Valentin\Desktop\Homework Methods\Problem 7. Reverse number\obj\Debug\Problem_7.Reverse_number.pdb

@@ -1,0 +1,6 @@
+C:\Users\Valentin\Desktop\C# Projects and shits xD\Homework Primitive Data Types and Variables\Problem 4. Unicode Character\bin\Debug\Problem_4.Unicode_Character.exe.config
+C:\Users\Valentin\Desktop\C# Projects and shits xD\Homework Primitive Data Types and Variables\Problem 4. Unicode Character\obj\Debug\Problem 4. Unicode Character.csprojResolveAssemblyReference.cache
+C:\Users\Valentin\Desktop\C# Projects and shits xD\Homework Primitive Data Types and Variables\Problem 4. Unicode Character\bin\Debug\Problem_4.Unicode_Character.exe
+C:\Users\Valentin\Desktop\C# Projects and shits xD\Homework Primitive Data Types and Variables\Problem 4. Unicode Character\bin\Debug\Problem_4.Unicode_Character.pdb
+C:\Users\Valentin\Desktop\C# Projects and shits xD\Homework Primitive Data Types and Variables\Problem 4. Unicode Character\obj\Debug\Problem_4.Unicode_Character.exe
+C:\Users\Valentin\Desktop\C# Projects and shits xD\Homework Primitive Data Types and Variables\Problem 4. Unicode Character\obj\Debug\Problem_4.Unicode_Character.pdb
