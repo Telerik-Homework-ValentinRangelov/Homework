@@ -1,0 +1,5 @@
+C:\Users\Valentin\Desktop\C#\Homework\C# 2\Homework Numeral Systems\Problem 7. One system to any other\bin\Debug\Problem_7.One_system_to_any_other.exe.config
+C:\Users\Valentin\Desktop\C#\Homework\C# 2\Homework Numeral Systems\Problem 7. One system to any other\bin\Debug\Problem_7.One_system_to_any_other.exe
+C:\Users\Valentin\Desktop\C#\Homework\C# 2\Homework Numeral Systems\Problem 7. One system to any other\bin\Debug\Problem_7.One_system_to_any_other.pdb
+C:\Users\Valentin\Desktop\C#\Homework\C# 2\Homework Numeral Systems\Problem 7. One system to any other\obj\Debug\Problem_7.One_system_to_any_other.exe
+C:\Users\Valentin\Desktop\C#\Homework\C# 2\Homework Numeral Systems\Problem 7. One system to any other\obj\Debug\Problem_7.One_system_to_any_other.pdb

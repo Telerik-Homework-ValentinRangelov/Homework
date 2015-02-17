@@ -1,0 +1,2 @@
+C:\Users\Valentin\Desktop\C#\Homework\C# 2\Homework Numeral Systems\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\Valentin\Desktop\C#\GitHub\Homework.git\trunk\C# 2\Homework Numeral Systems\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
