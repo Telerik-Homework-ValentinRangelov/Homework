@@ -1,0 +1,5 @@
+C:\Users\Valentin\Desktop\C#\Homework Using Classes and Objects\Problem 2. Random numbers\bin\Debug\Problem_2.Random_numbers.exe.config
+C:\Users\Valentin\Desktop\C#\Homework Using Classes and Objects\Problem 2. Random numbers\bin\Debug\Problem_2.Random_numbers.exe
+C:\Users\Valentin\Desktop\C#\Homework Using Classes and Objects\Problem 2. Random numbers\bin\Debug\Problem_2.Random_numbers.pdb
+C:\Users\Valentin\Desktop\C#\Homework Using Classes and Objects\Problem 2. Random numbers\obj\Debug\Problem_2.Random_numbers.exe
+C:\Users\Valentin\Desktop\C#\Homework Using Classes and Objects\Problem 2. Random numbers\obj\Debug\Problem_2.Random_numbers.pdb

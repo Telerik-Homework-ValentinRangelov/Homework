@@ -1,0 +1,6 @@
+C:\Users\Valentin\Desktop\C#\Homework Using Classes and Objects\Problem 4. Triangle surface\bin\Debug\Problem_4.Triangle_surface.exe.config
+C:\Users\Valentin\Desktop\C#\Homework Using Classes and Objects\Problem 4. Triangle surface\obj\Debug\Problem 4. Triangle surface.csprojResolveAssemblyReference.cache
+C:\Users\Valentin\Desktop\C#\Homework Using Classes and Objects\Problem 4. Triangle surface\bin\Debug\Problem_4.Triangle_surface.exe
+C:\Users\Valentin\Desktop\C#\Homework Using Classes and Objects\Problem 4. Triangle surface\bin\Debug\Problem_4.Triangle_surface.pdb
+C:\Users\Valentin\Desktop\C#\Homework Using Classes and Objects\Problem 4. Triangle surface\obj\Debug\Problem_4.Triangle_surface.exe
+C:\Users\Valentin\Desktop\C#\Homework Using Classes and Objects\Problem 4. Triangle surface\obj\Debug\Problem_4.Triangle_surface.pdb

@@ -1,0 +1,6 @@
+C:\Users\Valentin\Desktop\C#\Homework Using Classes and Objects\Problem 1. Leap year\bin\Debug\Problem_1.Leap_year.exe.config
+C:\Users\Valentin\Desktop\C#\Homework Using Classes and Objects\Problem 1. Leap year\bin\Debug\Problem_1.Leap_year.exe
+C:\Users\Valentin\Desktop\C#\Homework Using Classes and Objects\Problem 1. Leap year\bin\Debug\Problem_1.Leap_year.pdb
+C:\Users\Valentin\Desktop\C#\Homework Using Classes and Objects\Problem 1. Leap year\obj\Debug\Problem 1. Leap year.csprojResolveAssemblyReference.cache
+C:\Users\Valentin\Desktop\C#\Homework Using Classes and Objects\Problem 1. Leap year\obj\Debug\Problem_1.Leap_year.exe
+C:\Users\Valentin\Desktop\C#\Homework Using Classes and Objects\Problem 1. Leap year\obj\Debug\Problem_1.Leap_year.pdb
