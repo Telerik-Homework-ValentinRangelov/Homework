@@ -1,0 +1,1 @@
+C:\Users\Valentin\Desktop\C#\Homework Strings and Text Processing\Problem 25. Extract text from HTML\bin\Debug\Problem_25.Extract_text_from_HTML.exe.config

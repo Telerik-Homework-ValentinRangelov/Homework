@@ -1,0 +1,5 @@
+C:\Users\Valentin\Desktop\C#\Homework Strings and Text Processing\Problem 18. Extract e-mails\bin\Debug\Problem_18.Extract_e_mails.exe.config
+C:\Users\Valentin\Desktop\C#\Homework Strings and Text Processing\Problem 18. Extract e-mails\bin\Debug\Problem_18.Extract_e_mails.exe
+C:\Users\Valentin\Desktop\C#\Homework Strings and Text Processing\Problem 18. Extract e-mails\bin\Debug\Problem_18.Extract_e_mails.pdb
+C:\Users\Valentin\Desktop\C#\Homework Strings and Text Processing\Problem 18. Extract e-mails\obj\Debug\Problem_18.Extract_e_mails.exe
+C:\Users\Valentin\Desktop\C#\Homework Strings and Text Processing\Problem 18. Extract e-mails\obj\Debug\Problem_18.Extract_e_mails.pdb

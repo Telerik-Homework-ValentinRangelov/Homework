@@ -1,0 +1,6 @@
+C:\Users\Valentin\Desktop\C#\Homework Strings and Text Processing\Problem 8. Extract sentences\bin\Debug\Problem_8.Extract_sentences.exe.config
+C:\Users\Valentin\Desktop\C#\Homework Strings and Text Processing\Problem 8. Extract sentences\bin\Debug\Problem_8.Extract_sentences.exe
+C:\Users\Valentin\Desktop\C#\Homework Strings and Text Processing\Problem 8. Extract sentences\bin\Debug\Problem_8.Extract_sentences.pdb
+C:\Users\Valentin\Desktop\C#\Homework Strings and Text Processing\Problem 8. Extract sentences\obj\Debug\Problem 8. Extract sentences.csprojResolveAssemblyReference.cache
+C:\Users\Valentin\Desktop\C#\Homework Strings and Text Processing\Problem 8. Extract sentences\obj\Debug\Problem_8.Extract_sentences.exe
+C:\Users\Valentin\Desktop\C#\Homework Strings and Text Processing\Problem 8. Extract sentences\obj\Debug\Problem_8.Extract_sentences.pdb

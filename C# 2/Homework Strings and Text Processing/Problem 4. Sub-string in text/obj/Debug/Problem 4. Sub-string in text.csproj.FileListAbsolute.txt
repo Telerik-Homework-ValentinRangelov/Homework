@@ -1,0 +1,5 @@
+C:\Users\Valentin\Desktop\C#\Homework Strings and Text Processing\Problem 4. Sub-string in text\bin\Debug\Problem_4.Sub_string_in_text.exe.config
+C:\Users\Valentin\Desktop\C#\Homework Strings and Text Processing\Problem 4. Sub-string in text\bin\Debug\Problem_4.Sub_string_in_text.exe
+C:\Users\Valentin\Desktop\C#\Homework Strings and Text Processing\Problem 4. Sub-string in text\bin\Debug\Problem_4.Sub_string_in_text.pdb
+C:\Users\Valentin\Desktop\C#\Homework Strings and Text Processing\Problem 4. Sub-string in text\obj\Debug\Problem_4.Sub_string_in_text.exe
+C:\Users\Valentin\Desktop\C#\Homework Strings and Text Processing\Problem 4. Sub-string in text\obj\Debug\Problem_4.Sub_string_in_text.pdb

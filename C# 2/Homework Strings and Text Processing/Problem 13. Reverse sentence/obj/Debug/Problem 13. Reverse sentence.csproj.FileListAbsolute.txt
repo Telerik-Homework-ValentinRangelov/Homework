@@ -1,0 +1,5 @@
+C:\Users\Valentin\Desktop\C#\Homework Strings and Text Processing\Problem 13. Reverse sentence\bin\Debug\Problem_13.Reverse_sentence.exe.config
+C:\Users\Valentin\Desktop\C#\Homework Strings and Text Processing\Problem 13. Reverse sentence\bin\Debug\Problem_13.Reverse_sentence.exe
+C:\Users\Valentin\Desktop\C#\Homework Strings and Text Processing\Problem 13. Reverse sentence\bin\Debug\Problem_13.Reverse_sentence.pdb
+C:\Users\Valentin\Desktop\C#\Homework Strings and Text Processing\Problem 13. Reverse sentence\obj\Debug\Problem_13.Reverse_sentence.exe
+C:\Users\Valentin\Desktop\C#\Homework Strings and Text Processing\Problem 13. Reverse sentence\obj\Debug\Problem_13.Reverse_sentence.pdb

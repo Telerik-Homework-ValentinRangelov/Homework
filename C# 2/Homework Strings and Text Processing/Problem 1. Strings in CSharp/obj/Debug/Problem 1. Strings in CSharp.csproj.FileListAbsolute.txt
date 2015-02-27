@@ -1,0 +1,6 @@
+C:\Users\Valentin\Desktop\C#\Homework Strings and Text Processing\Problem 1. Strings in CSharp\bin\Debug\Problem_1.Strings_in_CSharp.exe.config
+C:\Users\Valentin\Desktop\C#\Homework Strings and Text Processing\Problem 1. Strings in CSharp\obj\Debug\Problem_1.Strings_in_CSharp.exe
+C:\Users\Valentin\Desktop\C#\Homework Strings and Text Processing\Problem 1. Strings in CSharp\obj\Debug\Problem_1.Strings_in_CSharp.pdb
+C:\Users\Valentin\Desktop\C#\Homework Strings and Text Processing\Problem 1. Strings in CSharp\bin\Debug\Problem_1.Strings_in_CSharp.exe
+C:\Users\Valentin\Desktop\C#\Homework Strings and Text Processing\Problem 1. Strings in CSharp\bin\Debug\Problem_1.Strings_in_CSharp.pdb
+C:\Users\Valentin\Desktop\C#\Homework Strings and Text Processing\Problem 1. Strings in CSharp\obj\Debug\Problem 1. Strings in CSharp.csprojResolveAssemblyReference.cache
