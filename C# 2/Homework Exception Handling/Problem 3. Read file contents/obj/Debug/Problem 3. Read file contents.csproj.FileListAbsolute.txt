@@ -1,0 +1,1 @@
+C:\Users\Valentin\Desktop\C#\Homework Exception Handling\Problem 3. Read file contents\bin\Debug\Problem_3.Read_file_contents.exe.config

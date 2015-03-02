@@ -1,0 +1,6 @@
+C:\Users\Valentin\Desktop\C#\Homework Exception Handling\Problem 1. Square root\bin\Debug\Problem_1.Square_root.exe.config
+C:\Users\Valentin\Desktop\C#\Homework Exception Handling\Problem 1. Square root\bin\Debug\Problem_1.Square_root.exe
+C:\Users\Valentin\Desktop\C#\Homework Exception Handling\Problem 1. Square root\bin\Debug\Problem_1.Square_root.pdb
+C:\Users\Valentin\Desktop\C#\Homework Exception Handling\Problem 1. Square root\obj\Debug\Problem 1. Square root.csprojResolveAssemblyReference.cache
+C:\Users\Valentin\Desktop\C#\Homework Exception Handling\Problem 1. Square root\obj\Debug\Problem_1.Square_root.exe
+C:\Users\Valentin\Desktop\C#\Homework Exception Handling\Problem 1. Square root\obj\Debug\Problem_1.Square_root.pdb
