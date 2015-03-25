@@ -1,0 +1,6 @@
+C:\Users\Valentin\Desktop\C#\Homework\OOP\Homework Extension-Methods-Delegates-Lambda-LINQ\Extension-Methods-Delegates-Lambda-LINQ\bin\Debug\Extension-Methods-Delegates-Lambda-LINQ.exe.config
+C:\Users\Valentin\Desktop\C#\Homework\OOP\Homework Extension-Methods-Delegates-Lambda-LINQ\Extension-Methods-Delegates-Lambda-LINQ\bin\Debug\Extension-Methods-Delegates-Lambda-LINQ.exe
+C:\Users\Valentin\Desktop\C#\Homework\OOP\Homework Extension-Methods-Delegates-Lambda-LINQ\Extension-Methods-Delegates-Lambda-LINQ\bin\Debug\Extension-Methods-Delegates-Lambda-LINQ.pdb
+C:\Users\Valentin\Desktop\C#\Homework\OOP\Homework Extension-Methods-Delegates-Lambda-LINQ\Extension-Methods-Delegates-Lambda-LINQ\obj\Debug\Extension-Methods-Delegates-Lambda-LINQ.csprojResolveAssemblyReference.cache
+C:\Users\Valentin\Desktop\C#\Homework\OOP\Homework Extension-Methods-Delegates-Lambda-LINQ\Extension-Methods-Delegates-Lambda-LINQ\obj\Debug\Extension-Methods-Delegates-Lambda-LINQ.exe
+C:\Users\Valentin\Desktop\C#\Homework\OOP\Homework Extension-Methods-Delegates-Lambda-LINQ\Extension-Methods-Delegates-Lambda-LINQ\obj\Debug\Extension-Methods-Delegates-Lambda-LINQ.pdb
