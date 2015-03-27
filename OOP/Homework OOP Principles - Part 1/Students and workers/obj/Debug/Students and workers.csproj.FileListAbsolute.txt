@@ -1,0 +1,5 @@
+C:\Users\Valentin\Desktop\C#\Homework\OOP\Homework OOP Principles - Part 1\Students and workers\bin\Debug\Students and workers.dll
+C:\Users\Valentin\Desktop\C#\Homework\OOP\Homework OOP Principles - Part 1\Students and workers\bin\Debug\Students and workers.pdb
+C:\Users\Valentin\Desktop\C#\Homework\OOP\Homework OOP Principles - Part 1\Students and workers\obj\Debug\Students and workers.csprojResolveAssemblyReference.cache
+C:\Users\Valentin\Desktop\C#\Homework\OOP\Homework OOP Principles - Part 1\Students and workers\obj\Debug\Students and workers.dll
+C:\Users\Valentin\Desktop\C#\Homework\OOP\Homework OOP Principles - Part 1\Students and workers\obj\Debug\Students and workers.pdb
