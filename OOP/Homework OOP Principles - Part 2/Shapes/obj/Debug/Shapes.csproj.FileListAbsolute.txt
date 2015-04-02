@@ -1,0 +1,5 @@
+C:\Users\Valentin\Desktop\C#\Homework\OOP\Homework OOP Principles - Part 2\Shapes\obj\Debug\Shapes.csprojResolveAssemblyReference.cache
+C:\Users\Valentin\Desktop\C#\Homework\OOP\Homework OOP Principles - Part 2\Shapes\bin\Debug\Shapes.dll
+C:\Users\Valentin\Desktop\C#\Homework\OOP\Homework OOP Principles - Part 2\Shapes\bin\Debug\Shapes.pdb
+C:\Users\Valentin\Desktop\C#\Homework\OOP\Homework OOP Principles - Part 2\Shapes\obj\Debug\Shapes.dll
+C:\Users\Valentin\Desktop\C#\Homework\OOP\Homework OOP Principles - Part 2\Shapes\obj\Debug\Shapes.pdb

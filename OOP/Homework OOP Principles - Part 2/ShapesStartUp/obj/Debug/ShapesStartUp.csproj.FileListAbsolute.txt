@@ -1,0 +1,8 @@
+C:\Users\Valentin\Desktop\C#\Homework\OOP\Homework OOP Principles - Part 2\ShapesStartUp\bin\Debug\ShapesStartUp.exe.config
+C:\Users\Valentin\Desktop\C#\Homework\OOP\Homework OOP Principles - Part 2\ShapesStartUp\bin\Debug\ShapesStartUp.exe
+C:\Users\Valentin\Desktop\C#\Homework\OOP\Homework OOP Principles - Part 2\ShapesStartUp\bin\Debug\ShapesStartUp.pdb
+C:\Users\Valentin\Desktop\C#\Homework\OOP\Homework OOP Principles - Part 2\ShapesStartUp\bin\Debug\Shapes.dll
+C:\Users\Valentin\Desktop\C#\Homework\OOP\Homework OOP Principles - Part 2\ShapesStartUp\bin\Debug\Shapes.pdb
+C:\Users\Valentin\Desktop\C#\Homework\OOP\Homework OOP Principles - Part 2\ShapesStartUp\obj\Debug\ShapesStartUp.csprojResolveAssemblyReference.cache
+C:\Users\Valentin\Desktop\C#\Homework\OOP\Homework OOP Principles - Part 2\ShapesStartUp\obj\Debug\ShapesStartUp.exe
+C:\Users\Valentin\Desktop\C#\Homework\OOP\Homework OOP Principles - Part 2\ShapesStartUp\obj\Debug\ShapesStartUp.pdb

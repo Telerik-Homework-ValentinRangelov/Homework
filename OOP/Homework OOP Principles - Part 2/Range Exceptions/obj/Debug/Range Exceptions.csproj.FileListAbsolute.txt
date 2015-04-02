@@ -1,0 +1,5 @@
+C:\Users\Valentin\Desktop\C#\Homework\OOP\Homework OOP Principles - Part 2\Range Exceptions\bin\Debug\Range Exceptions.dll
+C:\Users\Valentin\Desktop\C#\Homework\OOP\Homework OOP Principles - Part 2\Range Exceptions\bin\Debug\Range Exceptions.pdb
+C:\Users\Valentin\Desktop\C#\Homework\OOP\Homework OOP Principles - Part 2\Range Exceptions\obj\Debug\Range Exceptions.csprojResolveAssemblyReference.cache
+C:\Users\Valentin\Desktop\C#\Homework\OOP\Homework OOP Principles - Part 2\Range Exceptions\obj\Debug\Range Exceptions.dll
+C:\Users\Valentin\Desktop\C#\Homework\OOP\Homework OOP Principles - Part 2\Range Exceptions\obj\Debug\Range Exceptions.pdb

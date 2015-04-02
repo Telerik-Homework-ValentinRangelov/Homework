@@ -1,0 +1,8 @@
+C:\Users\Valentin\Desktop\C#\Homework\OOP\Homework OOP Principles - Part 2\BankAccountsStartUp\bin\Debug\BankAccountsStartUp.exe.config
+C:\Users\Valentin\Desktop\C#\Homework\OOP\Homework OOP Principles - Part 2\BankAccountsStartUp\obj\Debug\BankAccountsStartUp.csprojResolveAssemblyReference.cache
+C:\Users\Valentin\Desktop\C#\Homework\OOP\Homework OOP Principles - Part 2\BankAccountsStartUp\bin\Debug\BankAccountsStartUp.exe
+C:\Users\Valentin\Desktop\C#\Homework\OOP\Homework OOP Principles - Part 2\BankAccountsStartUp\bin\Debug\BankAccountsStartUp.pdb
+C:\Users\Valentin\Desktop\C#\Homework\OOP\Homework OOP Principles - Part 2\BankAccountsStartUp\bin\Debug\Bank accounts.dll
+C:\Users\Valentin\Desktop\C#\Homework\OOP\Homework OOP Principles - Part 2\BankAccountsStartUp\bin\Debug\Bank accounts.pdb
+C:\Users\Valentin\Desktop\C#\Homework\OOP\Homework OOP Principles - Part 2\BankAccountsStartUp\obj\Debug\BankAccountsStartUp.exe
+C:\Users\Valentin\Desktop\C#\Homework\OOP\Homework OOP Principles - Part 2\BankAccountsStartUp\obj\Debug\BankAccountsStartUp.pdb
