@@ -1,1 +1,2 @@
 C:\Users\Valentin\Desktop\C#\Homework Strings and Text Processing\Problem 24. Order words\bin\Debug\Problem_24.Order_words.exe.config
+C:\Users\Valentin\Desktop\C#\Homework\C# 2\Homework Strings and Text Processing\Problem 24. Order words\bin\Debug\Problem_24.Order_words.exe.config
