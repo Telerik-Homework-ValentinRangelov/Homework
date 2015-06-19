@@ -1,0 +1,6 @@
+c:\users\valentin\Desktop\C#\Homework\CSS Overview\Problem 3. Forum Posts\bin\Problem_3.Forum_Posts.dll.config
+c:\users\valentin\Desktop\C#\Homework\CSS Overview\Problem 3. Forum Posts\bin\Problem_3.Forum_Posts.dll
+c:\users\valentin\Desktop\C#\Homework\CSS Overview\Problem 3. Forum Posts\bin\Problem_3.Forum_Posts.pdb
+c:\users\valentin\Desktop\C#\Homework\CSS Overview\Problem 3. Forum Posts\obj\Debug\Problem 3. Forum Posts.csprojResolveAssemblyReference.cache
+c:\users\valentin\Desktop\C#\Homework\CSS Overview\Problem 3. Forum Posts\obj\Debug\Problem_3.Forum_Posts.dll
+c:\users\valentin\Desktop\C#\Homework\CSS Overview\Problem 3. Forum Posts\obj\Debug\Problem_3.Forum_Posts.pdb

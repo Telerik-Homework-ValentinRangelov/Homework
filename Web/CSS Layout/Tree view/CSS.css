@@ -1,0 +1,30 @@
+﻿body{
+    padding:0;
+    margin:0;
+}
+ul{
+    padding:0;
+    margin:0;
+    list-style-type:none;
+    font-size:25px;
+    
+    width:100px;
+    text-align:center;
+}
+ul ul{
+    width:200px;
+}
+ul li ul {
+    opacity:0.5;
+    display:none;
+}
+ul li:hover > ul{
+    display:block;
+}
+a{
+    text-decoration:none;
+    color:black;
+}
+a:hover{
+    text-decoration:underline;
+}

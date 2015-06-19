@@ -1,0 +1,42 @@
+﻿
+body,div,p,td,table {
+    padding:0;
+    margin:0;
+    
+}
+table{
+    
+    font-size:10px;
+
+}
+p{
+    color:lightgray;
+    margin-bottom:10px;
+    
+}
+td{
+    
+    color:whitesmoke;
+ width:100px;   
+    padding-bottom:10px;
+    
+}
+
+div{
+    background-color: gray;
+    width:250px;
+    
+}
+#noActiveSupport{
+    color:red;
+}
+.yellow{
+    color:yellow;
+}
+a{
+    color:yellow;
+    text-decoration:none;
+}
+.orange{
+    color:orange;
+}

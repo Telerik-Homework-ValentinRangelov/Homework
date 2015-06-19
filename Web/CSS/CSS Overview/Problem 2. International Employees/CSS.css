@@ -1,0 +1,28 @@
+﻿body{
+    margin:0;
+    padding:0;
+}
+.heading{
+    background-color:#66cc00 !important;
+    color:white;
+    border:1px solid black; 
+}
+
+td{
+    
+    width:100px;
+    border-top:1px solid white;
+    
+}
+table tr:nth-child(2n){
+    background-color:white;
+    
+}
+table tr:nth-child(2n+1){
+    background-color:lightgray;
+    
+}
+table{
+    background-color:black;
+    font-size:15px;
+}

@@ -1,0 +1,6 @@
+c:\users\valentin\Desktop\C#\Homework\HTML Fundamentals\Problem 2. Nested Lists\bin\Problem_2.Nested_Lists.dll.config
+c:\users\valentin\Desktop\C#\Homework\HTML Fundamentals\Problem 2. Nested Lists\bin\Problem_2.Nested_Lists.dll
+c:\users\valentin\Desktop\C#\Homework\HTML Fundamentals\Problem 2. Nested Lists\bin\Problem_2.Nested_Lists.pdb
+c:\users\valentin\Desktop\C#\Homework\HTML Fundamentals\Problem 2. Nested Lists\obj\Debug\Problem 2. Nested Lists.csprojResolveAssemblyReference.cache
+c:\users\valentin\Desktop\C#\Homework\HTML Fundamentals\Problem 2. Nested Lists\obj\Debug\Problem_2.Nested_Lists.dll
+c:\users\valentin\Desktop\C#\Homework\HTML Fundamentals\Problem 2. Nested Lists\obj\Debug\Problem_2.Nested_Lists.pdb

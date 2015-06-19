@@ -1,0 +1,6 @@
+c:\users\valentin\Desktop\C#\Homework\HTML Fundamentals\Problem 3. Social site\bin\Problem_3.Social_site.dll.config
+c:\users\valentin\Desktop\C#\Homework\HTML Fundamentals\Problem 3. Social site\bin\Problem_3.Social_site.dll
+c:\users\valentin\Desktop\C#\Homework\HTML Fundamentals\Problem 3. Social site\bin\Problem_3.Social_site.pdb
+c:\users\valentin\Desktop\C#\Homework\HTML Fundamentals\Problem 3. Social site\obj\Debug\Problem_3.Social_site.dll
+c:\users\valentin\Desktop\C#\Homework\HTML Fundamentals\Problem 3. Social site\obj\Debug\Problem_3.Social_site.pdb
+c:\users\valentin\Desktop\C#\Homework\HTML Fundamentals\Problem 3. Social site\obj\Debug\Problem 3. Social site.csprojResolveAssemblyReference.cache

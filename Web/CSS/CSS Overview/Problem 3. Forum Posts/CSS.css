@@ -1,0 +1,25 @@
+﻿body {
+    background-color:darkgray;
+}
+h1{
+    text-align:center;
+    color:white;
+}
+nav{
+    position:relative;
+    right:-43%;
+}
+a{
+    color:white;
+    text-decoration:none;
+    
+}
+a:hover{
+    background-color:lightgray;
+}
+ul{
+    list-style-type:none;
+}
+#center{
+    text-align:center;
+}

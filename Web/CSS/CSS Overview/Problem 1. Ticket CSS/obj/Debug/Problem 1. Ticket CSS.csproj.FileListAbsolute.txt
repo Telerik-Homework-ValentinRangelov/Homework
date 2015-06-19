@@ -1,0 +1,5 @@
+c:\users\valentin\Desktop\C#\Homework\CSS Overview\Problem 1. Ticket CSS\bin\Problem_1.Ticket_CSS.dll.config
+c:\users\valentin\Desktop\C#\Homework\CSS Overview\Problem 1. Ticket CSS\bin\Problem_1.Ticket_CSS.dll
+c:\users\valentin\Desktop\C#\Homework\CSS Overview\Problem 1. Ticket CSS\bin\Problem_1.Ticket_CSS.pdb
+c:\users\valentin\Desktop\C#\Homework\CSS Overview\Problem 1. Ticket CSS\obj\Debug\Problem_1.Ticket_CSS.dll
+c:\users\valentin\Desktop\C#\Homework\CSS Overview\Problem 1. Ticket CSS\obj\Debug\Problem_1.Ticket_CSS.pdb
