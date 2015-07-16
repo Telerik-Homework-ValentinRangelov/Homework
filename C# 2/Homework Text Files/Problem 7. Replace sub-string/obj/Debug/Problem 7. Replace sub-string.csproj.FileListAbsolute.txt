@@ -1,6 +1,0 @@
-C:\Users\Valentin\Desktop\C#\Homework Text Files\Problem 7. Replace sub-string\bin\Debug\Problem_7.Replace_sub_string.exe.config
-C:\Users\Valentin\Desktop\C#\Homework Text Files\Problem 7. Replace sub-string\bin\Debug\Problem_7.Replace_sub_string.exe
-C:\Users\Valentin\Desktop\C#\Homework Text Files\Problem 7. Replace sub-string\bin\Debug\Problem_7.Replace_sub_string.pdb
-C:\Users\Valentin\Desktop\C#\Homework Text Files\Problem 7. Replace sub-string\obj\Debug\Problem 7. Replace sub-string.csprojResolveAssemblyReference.cache
-C:\Users\Valentin\Desktop\C#\Homework Text Files\Problem 7. Replace sub-string\obj\Debug\Problem_7.Replace_sub_string.exe
-C:\Users\Valentin\Desktop\C#\Homework Text Files\Problem 7. Replace sub-string\obj\Debug\Problem_7.Replace_sub_string.pdb

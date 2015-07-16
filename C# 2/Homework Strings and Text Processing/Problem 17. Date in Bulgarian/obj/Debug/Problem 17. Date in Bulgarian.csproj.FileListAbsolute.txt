@@ -1,5 +1,0 @@
-C:\Users\Valentin\Desktop\C#\Homework Strings and Text Processing\Problem 17. Date in Bulgarian\bin\Debug\Problem_17.Date_in_Bulgarian.exe.config
-C:\Users\Valentin\Desktop\C#\Homework Strings and Text Processing\Problem 17. Date in Bulgarian\bin\Debug\Problem_17.Date_in_Bulgarian.exe
-C:\Users\Valentin\Desktop\C#\Homework Strings and Text Processing\Problem 17. Date in Bulgarian\bin\Debug\Problem_17.Date_in_Bulgarian.pdb
-C:\Users\Valentin\Desktop\C#\Homework Strings and Text Processing\Problem 17. Date in Bulgarian\obj\Debug\Problem_17.Date_in_Bulgarian.exe
-C:\Users\Valentin\Desktop\C#\Homework Strings and Text Processing\Problem 17. Date in Bulgarian\obj\Debug\Problem_17.Date_in_Bulgarian.pdb

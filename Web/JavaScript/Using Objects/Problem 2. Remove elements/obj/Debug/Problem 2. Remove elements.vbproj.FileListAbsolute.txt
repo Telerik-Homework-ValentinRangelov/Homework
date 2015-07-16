@@ -1,9 +1,0 @@
-E:\Telerik\Homework\JavaScript\Using Objects\Problem 2. Remove elements\bin\Problem_2.Remove_elements.dll.config
-E:\Telerik\Homework\JavaScript\Using Objects\Problem 2. Remove elements\bin\Problem_2.Remove_elements.dll
-E:\Telerik\Homework\JavaScript\Using Objects\Problem 2. Remove elements\bin\Problem_2.Remove_elements.pdb
-E:\Telerik\Homework\JavaScript\Using Objects\Problem 2. Remove elements\bin\Problem_2.Remove_elements.xml
-E:\Telerik\Homework\JavaScript\Using Objects\Problem 2. Remove elements\obj\Debug\Problem_2.Remove_elements.Resources.resources
-E:\Telerik\Homework\JavaScript\Using Objects\Problem 2. Remove elements\obj\Debug\Problem 2. Remove elements.vbproj.GenerateResource.Cache
-E:\Telerik\Homework\JavaScript\Using Objects\Problem 2. Remove elements\obj\Debug\Problem_2.Remove_elements.dll
-E:\Telerik\Homework\JavaScript\Using Objects\Problem 2. Remove elements\obj\Debug\Problem_2.Remove_elements.xml
-E:\Telerik\Homework\JavaScript\Using Objects\Problem 2. Remove elements\obj\Debug\Problem_2.Remove_elements.pdb

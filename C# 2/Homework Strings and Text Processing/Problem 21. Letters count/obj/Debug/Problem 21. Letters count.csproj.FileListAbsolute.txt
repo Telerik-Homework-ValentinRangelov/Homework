@@ -1,1 +1,0 @@
-C:\Users\Valentin\Desktop\C#\Homework Strings and Text Processing\Problem 21. Letters count\bin\Debug\Problem_21.Letters_count.exe.config

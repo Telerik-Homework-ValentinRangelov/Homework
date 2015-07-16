@@ -1,5 +1,0 @@
-C:\Users\Valentin\Desktop\C#\Homework\Homework Multidimensional Arrays\Problem 5. Sort by string length\bin\Debug\Problem_5.Sort_by_string_length.exe.config
-C:\Users\Valentin\Desktop\C#\Homework\Homework Multidimensional Arrays\Problem 5. Sort by string length\bin\Debug\Problem_5.Sort_by_string_length.exe
-C:\Users\Valentin\Desktop\C#\Homework\Homework Multidimensional Arrays\Problem 5. Sort by string length\bin\Debug\Problem_5.Sort_by_string_length.pdb
-C:\Users\Valentin\Desktop\C#\Homework\Homework Multidimensional Arrays\Problem 5. Sort by string length\obj\Debug\Problem_5.Sort_by_string_length.exe
-C:\Users\Valentin\Desktop\C#\Homework\Homework Multidimensional Arrays\Problem 5. Sort by string length\obj\Debug\Problem_5.Sort_by_string_length.pdb

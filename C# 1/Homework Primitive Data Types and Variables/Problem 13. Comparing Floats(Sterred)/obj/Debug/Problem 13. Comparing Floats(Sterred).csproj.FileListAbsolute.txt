@@ -1,5 +1,0 @@
-C:\Users\Valentin\Desktop\C# Projects and shits xD\Homework Primitive Data Types and Variables\Problem 13. Comparing Floats(Sterred)\bin\Debug\Problem_13.Comparing_Floats_Sterred_.exe.config
-C:\Users\Valentin\Desktop\C# Projects and shits xD\Homework Primitive Data Types and Variables\Problem 13. Comparing Floats(Sterred)\bin\Debug\Problem_13.Comparing_Floats_Sterred_.exe
-C:\Users\Valentin\Desktop\C# Projects and shits xD\Homework Primitive Data Types and Variables\Problem 13. Comparing Floats(Sterred)\bin\Debug\Problem_13.Comparing_Floats_Sterred_.pdb
-C:\Users\Valentin\Desktop\C# Projects and shits xD\Homework Primitive Data Types and Variables\Problem 13. Comparing Floats(Sterred)\obj\Debug\Problem_13.Comparing_Floats_Sterred_.exe
-C:\Users\Valentin\Desktop\C# Projects and shits xD\Homework Primitive Data Types and Variables\Problem 13. Comparing Floats(Sterred)\obj\Debug\Problem_13.Comparing_Floats_Sterred_.pdb

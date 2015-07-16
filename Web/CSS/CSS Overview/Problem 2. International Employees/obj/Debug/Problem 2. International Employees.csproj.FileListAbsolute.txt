@@ -1,6 +1,0 @@
-c:\users\valentin\Desktop\C#\Homework\CSS Overview\Problem 2. International Employees\bin\Problem_2.International_Employees.dll.config
-c:\users\valentin\Desktop\C#\Homework\CSS Overview\Problem 2. International Employees\bin\Problem_2.International_Employees.dll
-c:\users\valentin\Desktop\C#\Homework\CSS Overview\Problem 2. International Employees\bin\Problem_2.International_Employees.pdb
-c:\users\valentin\Desktop\C#\Homework\CSS Overview\Problem 2. International Employees\obj\Debug\Problem 2. International Employees.csprojResolveAssemblyReference.cache
-c:\users\valentin\Desktop\C#\Homework\CSS Overview\Problem 2. International Employees\obj\Debug\Problem_2.International_Employees.dll
-c:\users\valentin\Desktop\C#\Homework\CSS Overview\Problem 2. International Employees\obj\Debug\Problem_2.International_Employees.pdb

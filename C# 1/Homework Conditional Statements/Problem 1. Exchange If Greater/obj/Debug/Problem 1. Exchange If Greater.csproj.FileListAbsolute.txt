@@ -1,6 +1,0 @@
-C:\Users\Valentin\Desktop\C# Projects and shits xD\Homework Conditional Statements\Problem 1. Exchange If Greater\bin\Debug\Problem_1.Exchange_If_Greater.exe.config
-C:\Users\Valentin\Desktop\C# Projects and shits xD\Homework Conditional Statements\Problem 1. Exchange If Greater\bin\Debug\Problem_1.Exchange_If_Greater.exe
-C:\Users\Valentin\Desktop\C# Projects and shits xD\Homework Conditional Statements\Problem 1. Exchange If Greater\bin\Debug\Problem_1.Exchange_If_Greater.pdb
-C:\Users\Valentin\Desktop\C# Projects and shits xD\Homework Conditional Statements\Problem 1. Exchange If Greater\obj\Debug\Problem 1. Exchange If Greater.csprojResolveAssemblyReference.cache
-C:\Users\Valentin\Desktop\C# Projects and shits xD\Homework Conditional Statements\Problem 1. Exchange If Greater\obj\Debug\Problem_1.Exchange_If_Greater.exe
-C:\Users\Valentin\Desktop\C# Projects and shits xD\Homework Conditional Statements\Problem 1. Exchange If Greater\obj\Debug\Problem_1.Exchange_If_Greater.pdb

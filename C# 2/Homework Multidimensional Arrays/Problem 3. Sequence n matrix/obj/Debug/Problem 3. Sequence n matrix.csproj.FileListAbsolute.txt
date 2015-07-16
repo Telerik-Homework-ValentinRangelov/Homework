@@ -1,6 +1,0 @@
-C:\Users\Valentin\Desktop\C#\Homework\Homework Multidimensional Arrays\Problem 3. Sequence n matrix\bin\Debug\Problem_3.Sequence_n_matrix.exe.config
-C:\Users\Valentin\Desktop\C#\Homework\Homework Multidimensional Arrays\Problem 3. Sequence n matrix\obj\Debug\Problem 3. Sequence n matrix.csprojResolveAssemblyReference.cache
-C:\Users\Valentin\Desktop\C#\Homework\Homework Multidimensional Arrays\Problem 3. Sequence n matrix\bin\Debug\Problem_3.Sequence_n_matrix.exe
-C:\Users\Valentin\Desktop\C#\Homework\Homework Multidimensional Arrays\Problem 3. Sequence n matrix\bin\Debug\Problem_3.Sequence_n_matrix.pdb
-C:\Users\Valentin\Desktop\C#\Homework\Homework Multidimensional Arrays\Problem 3. Sequence n matrix\obj\Debug\Problem_3.Sequence_n_matrix.exe
-C:\Users\Valentin\Desktop\C#\Homework\Homework Multidimensional Arrays\Problem 3. Sequence n matrix\obj\Debug\Problem_3.Sequence_n_matrix.pdb

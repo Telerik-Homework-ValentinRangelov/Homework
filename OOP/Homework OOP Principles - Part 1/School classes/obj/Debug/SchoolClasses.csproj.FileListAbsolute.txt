@@ -1,5 +1,0 @@
-C:\Users\Valentin\Desktop\C#\Homework\OOP\Homework OOP Principles - Part 1\School classes\bin\Debug\School classes.dll
-C:\Users\Valentin\Desktop\C#\Homework\OOP\Homework OOP Principles - Part 1\School classes\bin\Debug\School classes.pdb
-C:\Users\Valentin\Desktop\C#\Homework\OOP\Homework OOP Principles - Part 1\School classes\obj\Debug\SchoolClasses.csprojResolveAssemblyReference.cache
-C:\Users\Valentin\Desktop\C#\Homework\OOP\Homework OOP Principles - Part 1\School classes\obj\Debug\School classes.dll
-C:\Users\Valentin\Desktop\C#\Homework\OOP\Homework OOP Principles - Part 1\School classes\obj\Debug\School classes.pdb

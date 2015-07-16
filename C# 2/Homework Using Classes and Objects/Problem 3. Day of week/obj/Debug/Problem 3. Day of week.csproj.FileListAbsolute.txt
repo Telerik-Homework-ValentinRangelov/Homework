@@ -1,5 +1,0 @@
-C:\Users\Valentin\Desktop\C#\Homework Using Classes and Objects\Problem 3. Day of week\bin\Debug\Problem_3.Day_of_week.exe.config
-C:\Users\Valentin\Desktop\C#\Homework Using Classes and Objects\Problem 3. Day of week\bin\Debug\Problem_3.Day_of_week.exe
-C:\Users\Valentin\Desktop\C#\Homework Using Classes and Objects\Problem 3. Day of week\bin\Debug\Problem_3.Day_of_week.pdb
-C:\Users\Valentin\Desktop\C#\Homework Using Classes and Objects\Problem 3. Day of week\obj\Debug\Problem_3.Day_of_week.exe
-C:\Users\Valentin\Desktop\C#\Homework Using Classes and Objects\Problem 3. Day of week\obj\Debug\Problem_3.Day_of_week.pdb

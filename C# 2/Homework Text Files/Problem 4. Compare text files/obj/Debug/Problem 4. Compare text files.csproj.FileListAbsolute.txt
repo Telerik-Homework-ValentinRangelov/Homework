@@ -1,5 +1,0 @@
-C:\Users\Valentin\Desktop\C#\Homework Text Files\Problem 4. Compare text files\bin\Debug\Problem_4.Compare_text_files.exe.config
-C:\Users\Valentin\Desktop\C#\Homework Text Files\Problem 4. Compare text files\bin\Debug\Problem_4.Compare_text_files.exe
-C:\Users\Valentin\Desktop\C#\Homework Text Files\Problem 4. Compare text files\bin\Debug\Problem_4.Compare_text_files.pdb
-C:\Users\Valentin\Desktop\C#\Homework Text Files\Problem 4. Compare text files\obj\Debug\Problem_4.Compare_text_files.exe
-C:\Users\Valentin\Desktop\C#\Homework Text Files\Problem 4. Compare text files\obj\Debug\Problem_4.Compare_text_files.pdb

@@ -1,6 +1,0 @@
-c:\users\valentin\Desktop\C#\Homework\HTML Tables\Problem 1. HTML Tables\bin\Problem_1.HTML_Tables.dll.config
-c:\users\valentin\Desktop\C#\Homework\HTML Tables\Problem 1. HTML Tables\bin\Problem_1.HTML_Tables.dll
-c:\users\valentin\Desktop\C#\Homework\HTML Tables\Problem 1. HTML Tables\bin\Problem_1.HTML_Tables.pdb
-c:\users\valentin\Desktop\C#\Homework\HTML Tables\Problem 1. HTML Tables\obj\Debug\Problem 1. HTML Tables.csprojResolveAssemblyReference.cache
-c:\users\valentin\Desktop\C#\Homework\HTML Tables\Problem 1. HTML Tables\obj\Debug\Problem_1.HTML_Tables.dll
-c:\users\valentin\Desktop\C#\Homework\HTML Tables\Problem 1. HTML Tables\obj\Debug\Problem_1.HTML_Tables.pdb

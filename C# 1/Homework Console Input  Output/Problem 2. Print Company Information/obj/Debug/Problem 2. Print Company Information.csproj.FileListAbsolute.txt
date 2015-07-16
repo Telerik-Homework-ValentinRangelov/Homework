@@ -1,5 +1,0 @@
-C:\Users\Valentin\Desktop\C# Projects and shits xD\Homework Console Input  Output\Problem 2. Print Company Information\bin\Debug\Problem_2.Print_Company_Information.exe.config
-C:\Users\Valentin\Desktop\C# Projects and shits xD\Homework Console Input  Output\Problem 2. Print Company Information\bin\Debug\Problem_2.Print_Company_Information.exe
-C:\Users\Valentin\Desktop\C# Projects and shits xD\Homework Console Input  Output\Problem 2. Print Company Information\bin\Debug\Problem_2.Print_Company_Information.pdb
-C:\Users\Valentin\Desktop\C# Projects and shits xD\Homework Console Input  Output\Problem 2. Print Company Information\obj\Debug\Problem_2.Print_Company_Information.exe
-C:\Users\Valentin\Desktop\C# Projects and shits xD\Homework Console Input  Output\Problem 2. Print Company Information\obj\Debug\Problem_2.Print_Company_Information.pdb

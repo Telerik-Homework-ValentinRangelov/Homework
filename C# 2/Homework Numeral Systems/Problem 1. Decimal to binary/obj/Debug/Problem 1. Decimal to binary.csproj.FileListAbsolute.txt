@@ -1,6 +1,0 @@
-C:\Users\Valentin\Desktop\C#\Homework\C# 2\Homework Numeral Systems\Problem 1. Decimal to binary\bin\Debug\Problem_1.Decimal_to_binary.exe.config
-C:\Users\Valentin\Desktop\C#\Homework\C# 2\Homework Numeral Systems\Problem 1. Decimal to binary\obj\Debug\Problem 1. Decimal to binary.csprojResolveAssemblyReference.cache
-C:\Users\Valentin\Desktop\C#\Homework\C# 2\Homework Numeral Systems\Problem 1. Decimal to binary\bin\Debug\Problem_1.Decimal_to_binary.exe
-C:\Users\Valentin\Desktop\C#\Homework\C# 2\Homework Numeral Systems\Problem 1. Decimal to binary\bin\Debug\Problem_1.Decimal_to_binary.pdb
-C:\Users\Valentin\Desktop\C#\Homework\C# 2\Homework Numeral Systems\Problem 1. Decimal to binary\obj\Debug\Problem_1.Decimal_to_binary.exe
-C:\Users\Valentin\Desktop\C#\Homework\C# 2\Homework Numeral Systems\Problem 1. Decimal to binary\obj\Debug\Problem_1.Decimal_to_binary.pdb

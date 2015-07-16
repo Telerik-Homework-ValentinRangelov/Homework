@@ -1,9 +1,0 @@
-E:\Telerik\Homework\JavaScript\Functions and Function Expressions\Task 2\bin\Task 2.dll.config
-E:\Telerik\Homework\JavaScript\Functions and Function Expressions\Task 2\bin\Task 2.dll
-E:\Telerik\Homework\JavaScript\Functions and Function Expressions\Task 2\bin\Task 2.pdb
-E:\Telerik\Homework\JavaScript\Functions and Function Expressions\Task 2\bin\Task 2.xml
-E:\Telerik\Homework\JavaScript\Functions and Function Expressions\Task 2\obj\Debug\Task_2.Resources.resources
-E:\Telerik\Homework\JavaScript\Functions and Function Expressions\Task 2\obj\Debug\Task 2.vbproj.GenerateResource.Cache
-E:\Telerik\Homework\JavaScript\Functions and Function Expressions\Task 2\obj\Debug\Task 2.dll
-E:\Telerik\Homework\JavaScript\Functions and Function Expressions\Task 2\obj\Debug\Task 2.xml
-E:\Telerik\Homework\JavaScript\Functions and Function Expressions\Task 2\obj\Debug\Task 2.pdb

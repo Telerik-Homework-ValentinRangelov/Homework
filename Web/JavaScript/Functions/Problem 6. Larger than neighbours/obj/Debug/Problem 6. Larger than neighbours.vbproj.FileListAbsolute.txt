@@ -1,9 +1,0 @@
-E:\Telerik\Homework\JavaScript\Functions\Problem 6. Larger than neighbours\bin\Problem_6.Larger_than_neighbours.dll.config
-E:\Telerik\Homework\JavaScript\Functions\Problem 6. Larger than neighbours\bin\Problem_6.Larger_than_neighbours.dll
-E:\Telerik\Homework\JavaScript\Functions\Problem 6. Larger than neighbours\bin\Problem_6.Larger_than_neighbours.pdb
-E:\Telerik\Homework\JavaScript\Functions\Problem 6. Larger than neighbours\bin\Problem_6.Larger_than_neighbours.xml
-E:\Telerik\Homework\JavaScript\Functions\Problem 6. Larger than neighbours\obj\Debug\Problem_6.Larger_than_neighbours.Resources.resources
-E:\Telerik\Homework\JavaScript\Functions\Problem 6. Larger than neighbours\obj\Debug\Problem 6. Larger than neighbours.vbproj.GenerateResource.Cache
-E:\Telerik\Homework\JavaScript\Functions\Problem 6. Larger than neighbours\obj\Debug\Problem_6.Larger_than_neighbours.dll
-E:\Telerik\Homework\JavaScript\Functions\Problem 6. Larger than neighbours\obj\Debug\Problem_6.Larger_than_neighbours.xml
-E:\Telerik\Homework\JavaScript\Functions\Problem 6. Larger than neighbours\obj\Debug\Problem_6.Larger_than_neighbours.pdb

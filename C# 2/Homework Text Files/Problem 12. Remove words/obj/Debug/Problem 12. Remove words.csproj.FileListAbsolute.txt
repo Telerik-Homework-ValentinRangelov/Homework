@@ -1,6 +1,0 @@
-C:\Users\Valentin\Desktop\C#\Homework Text Files\Problem 12. Remove words\bin\Debug\Problem_12.Remove_words.exe.config
-C:\Users\Valentin\Desktop\C#\Homework Text Files\Problem 12. Remove words\bin\Debug\Problem_12.Remove_words.exe
-C:\Users\Valentin\Desktop\C#\Homework Text Files\Problem 12. Remove words\bin\Debug\Problem_12.Remove_words.pdb
-C:\Users\Valentin\Desktop\C#\Homework Text Files\Problem 12. Remove words\obj\Debug\Problem 12. Remove words.csprojResolveAssemblyReference.cache
-C:\Users\Valentin\Desktop\C#\Homework Text Files\Problem 12. Remove words\obj\Debug\Problem_12.Remove_words.exe
-C:\Users\Valentin\Desktop\C#\Homework Text Files\Problem 12. Remove words\obj\Debug\Problem_12.Remove_words.pdb

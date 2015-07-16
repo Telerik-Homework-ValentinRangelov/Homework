@@ -1,6 +1,0 @@
-C:\Users\Valentin\Desktop\C#\Homework\HTML Tables\Problem 2. HTML Form\bin\Problem_2.HTML_Form.dll.config
-C:\Users\Valentin\Desktop\C#\Homework\HTML Tables\Problem 2. HTML Form\bin\Problem_2.HTML_Form.dll
-C:\Users\Valentin\Desktop\C#\Homework\HTML Tables\Problem 2. HTML Form\bin\Problem_2.HTML_Form.pdb
-C:\Users\Valentin\Desktop\C#\Homework\HTML Tables\Problem 2. HTML Form\obj\Debug\Problem 2. HTML Form.csprojResolveAssemblyReference.cache
-C:\Users\Valentin\Desktop\C#\Homework\HTML Tables\Problem 2. HTML Form\obj\Debug\Problem_2.HTML_Form.dll
-C:\Users\Valentin\Desktop\C#\Homework\HTML Tables\Problem 2. HTML Form\obj\Debug\Problem_2.HTML_Form.pdb

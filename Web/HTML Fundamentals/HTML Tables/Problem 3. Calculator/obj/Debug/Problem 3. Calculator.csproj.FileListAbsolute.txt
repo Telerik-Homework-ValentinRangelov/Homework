@@ -1,6 +1,0 @@
-C:\Users\Valentin\Desktop\C#\Homework\HTML Tables\Problem 3. Calculator\bin\Problem_3.Calculator.dll.config
-C:\Users\Valentin\Desktop\C#\Homework\HTML Tables\Problem 3. Calculator\bin\Problem_3.Calculator.dll
-C:\Users\Valentin\Desktop\C#\Homework\HTML Tables\Problem 3. Calculator\bin\Problem_3.Calculator.pdb
-C:\Users\Valentin\Desktop\C#\Homework\HTML Tables\Problem 3. Calculator\obj\Debug\Problem 3. Calculator.csprojResolveAssemblyReference.cache
-C:\Users\Valentin\Desktop\C#\Homework\HTML Tables\Problem 3. Calculator\obj\Debug\Problem_3.Calculator.dll
-C:\Users\Valentin\Desktop\C#\Homework\HTML Tables\Problem 3. Calculator\obj\Debug\Problem_3.Calculator.pdb

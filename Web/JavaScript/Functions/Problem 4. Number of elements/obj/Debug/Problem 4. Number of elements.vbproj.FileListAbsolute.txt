@@ -1,9 +1,0 @@
-E:\Telerik\Homework\JavaScript\Functions\Problem 4. Number of elements\bin\Problem_4.Number_of_elements.dll.config
-E:\Telerik\Homework\JavaScript\Functions\Problem 4. Number of elements\bin\Problem_4.Number_of_elements.dll
-E:\Telerik\Homework\JavaScript\Functions\Problem 4. Number of elements\bin\Problem_4.Number_of_elements.pdb
-E:\Telerik\Homework\JavaScript\Functions\Problem 4. Number of elements\bin\Problem_4.Number_of_elements.xml
-E:\Telerik\Homework\JavaScript\Functions\Problem 4. Number of elements\obj\Debug\Problem_4.Number_of_elements.Resources.resources
-E:\Telerik\Homework\JavaScript\Functions\Problem 4. Number of elements\obj\Debug\Problem 4. Number of elements.vbproj.GenerateResource.Cache
-E:\Telerik\Homework\JavaScript\Functions\Problem 4. Number of elements\obj\Debug\Problem_4.Number_of_elements.dll
-E:\Telerik\Homework\JavaScript\Functions\Problem 4. Number of elements\obj\Debug\Problem_4.Number_of_elements.xml
-E:\Telerik\Homework\JavaScript\Functions\Problem 4. Number of elements\obj\Debug\Problem_4.Number_of_elements.pdb

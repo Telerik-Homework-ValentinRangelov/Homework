@@ -1,9 +1,0 @@
-E:\Telerik\Homework\JavaScript\Functions\Problem 5. Appearance count\bin\Problem_5.Appearance_count.dll.config
-E:\Telerik\Homework\JavaScript\Functions\Problem 5. Appearance count\bin\Problem_5.Appearance_count.dll
-E:\Telerik\Homework\JavaScript\Functions\Problem 5. Appearance count\bin\Problem_5.Appearance_count.pdb
-E:\Telerik\Homework\JavaScript\Functions\Problem 5. Appearance count\bin\Problem_5.Appearance_count.xml
-E:\Telerik\Homework\JavaScript\Functions\Problem 5. Appearance count\obj\Debug\Problem_5.Appearance_count.Resources.resources
-E:\Telerik\Homework\JavaScript\Functions\Problem 5. Appearance count\obj\Debug\Problem 5. Appearance count.vbproj.GenerateResource.Cache
-E:\Telerik\Homework\JavaScript\Functions\Problem 5. Appearance count\obj\Debug\Problem_5.Appearance_count.dll
-E:\Telerik\Homework\JavaScript\Functions\Problem 5. Appearance count\obj\Debug\Problem_5.Appearance_count.xml
-E:\Telerik\Homework\JavaScript\Functions\Problem 5. Appearance count\obj\Debug\Problem_5.Appearance_count.pdb

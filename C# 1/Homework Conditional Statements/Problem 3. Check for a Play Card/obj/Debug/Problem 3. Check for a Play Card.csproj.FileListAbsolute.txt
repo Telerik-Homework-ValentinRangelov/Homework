@@ -1,5 +1,0 @@
-C:\Users\Valentin\Desktop\C# Projects and shits xD\Homework Conditional Statements\Problem 3. Check for a Play Card\bin\Debug\Problem_3.Check_for_a_Play_Card.exe.config
-C:\Users\Valentin\Desktop\C# Projects and shits xD\Homework Conditional Statements\Problem 3. Check for a Play Card\bin\Debug\Problem_3.Check_for_a_Play_Card.exe
-C:\Users\Valentin\Desktop\C# Projects and shits xD\Homework Conditional Statements\Problem 3. Check for a Play Card\bin\Debug\Problem_3.Check_for_a_Play_Card.pdb
-C:\Users\Valentin\Desktop\C# Projects and shits xD\Homework Conditional Statements\Problem 3. Check for a Play Card\obj\Debug\Problem_3.Check_for_a_Play_Card.exe
-C:\Users\Valentin\Desktop\C# Projects and shits xD\Homework Conditional Statements\Problem 3. Check for a Play Card\obj\Debug\Problem_3.Check_for_a_Play_Card.pdb

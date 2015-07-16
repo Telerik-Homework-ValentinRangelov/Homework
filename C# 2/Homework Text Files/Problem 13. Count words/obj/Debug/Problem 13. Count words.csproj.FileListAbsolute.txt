@@ -1,5 +1,0 @@
-C:\Users\Valentin\Desktop\C#\Homework Text Files\Problem 13. Count words\bin\Debug\Problem_13.Count_words.exe.config
-C:\Users\Valentin\Desktop\C#\Homework Text Files\Problem 13. Count words\bin\Debug\Problem_13.Count_words.exe
-C:\Users\Valentin\Desktop\C#\Homework Text Files\Problem 13. Count words\bin\Debug\Problem_13.Count_words.pdb
-C:\Users\Valentin\Desktop\C#\Homework Text Files\Problem 13. Count words\obj\Debug\Problem_13.Count_words.exe
-C:\Users\Valentin\Desktop\C#\Homework Text Files\Problem 13. Count words\obj\Debug\Problem_13.Count_words.pdb

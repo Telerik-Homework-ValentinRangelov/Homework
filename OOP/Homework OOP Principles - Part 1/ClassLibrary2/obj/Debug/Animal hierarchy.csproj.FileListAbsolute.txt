@@ -1,5 +1,0 @@
-C:\Users\Valentin\Desktop\C#\Homework\OOP\Homework OOP Principles - Part 1\ClassLibrary2\obj\Debug\Animal hierarchy.csprojResolveAssemblyReference.cache
-C:\Users\Valentin\Desktop\C#\Homework\OOP\Homework OOP Principles - Part 1\ClassLibrary2\bin\Debug\ClassLibrary2.dll
-C:\Users\Valentin\Desktop\C#\Homework\OOP\Homework OOP Principles - Part 1\ClassLibrary2\bin\Debug\ClassLibrary2.pdb
-C:\Users\Valentin\Desktop\C#\Homework\OOP\Homework OOP Principles - Part 1\ClassLibrary2\obj\Debug\ClassLibrary2.dll
-C:\Users\Valentin\Desktop\C#\Homework\OOP\Homework OOP Principles - Part 1\ClassLibrary2\obj\Debug\ClassLibrary2.pdb

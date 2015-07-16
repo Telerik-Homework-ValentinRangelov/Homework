@@ -1,6 +1,0 @@
-C:\Users\Valentin\Desktop\Homework Methods\Problem 10. N Factorial\bin\Debug\Problem_10.N_Factorial.exe.config
-C:\Users\Valentin\Desktop\Homework Methods\Problem 10. N Factorial\bin\Debug\Problem_10.N_Factorial.exe
-C:\Users\Valentin\Desktop\Homework Methods\Problem 10. N Factorial\bin\Debug\Problem_10.N_Factorial.pdb
-C:\Users\Valentin\Desktop\Homework Methods\Problem 10. N Factorial\obj\Debug\Problem_10.N_Factorial.exe
-C:\Users\Valentin\Desktop\Homework Methods\Problem 10. N Factorial\obj\Debug\Problem_10.N_Factorial.pdb
-C:\Users\Valentin\Desktop\Homework Methods\Problem 10. N Factorial\obj\Debug\Problem 10. N Factorial.csprojResolveAssemblyReference.cache

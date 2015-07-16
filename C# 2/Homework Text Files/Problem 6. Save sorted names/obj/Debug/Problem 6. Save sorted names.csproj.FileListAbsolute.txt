@@ -1,9 +1,0 @@
-C:\Users\Valentin\Desktop\C#\Homework Text Files\Problem 6. Save sorted names\bin\Debug\Problem_6.Save_sorted_names.exe.config
-C:\Users\Valentin\Desktop\C#\Homework Text Files\Problem 6. Save sorted names\bin\Debug\Problem_6.Save_sorted_names.exe
-C:\Users\Valentin\Desktop\C#\Homework Text Files\Problem 6. Save sorted names\bin\Debug\Problem_6.Save_sorted_names.pdb
-C:\Users\Valentin\Desktop\C#\Homework Text Files\Problem 6. Save sorted names\obj\Debug\Problem_6.Save_sorted_names.exe
-C:\Users\Valentin\Desktop\C#\Homework Text Files\Problem 6. Save sorted names\obj\Debug\Problem_6.Save_sorted_names.pdb
-C:\Users\Valentin\Desktop\C#\Homework Text Files\Problem 6. Save sorted names\obj\Debug\Problem 6. Save sorted names.csprojResolveAssemblyReference.cache
-C:\Users\Valentin\Desktop\C#\Homework\C# 2\Homework Text Files\Problem 6. Save sorted names\bin\Debug\Problem_6.Save_sorted_names.exe.config
-C:\Users\Valentin\Desktop\C#\Homework\C# 2\Homework Text Files\Problem 6. Save sorted names\obj\Debug\Problem_6.Save_sorted_names.exe
-C:\Users\Valentin\Desktop\C#\Homework\C# 2\Homework Text Files\Problem 6. Save sorted names\obj\Debug\Problem_6.Save_sorted_names.pdb

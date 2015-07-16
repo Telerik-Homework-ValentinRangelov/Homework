@@ -1,6 +1,0 @@
-C:\Users\Valentin\Desktop\Homework Methods\Problem 5. Larger than neighbours\bin\Debug\Problem_5.Larger_than_neighbours.exe.config
-C:\Users\Valentin\Desktop\Homework Methods\Problem 5. Larger than neighbours\bin\Debug\Problem_5.Larger_than_neighbours.exe
-C:\Users\Valentin\Desktop\Homework Methods\Problem 5. Larger than neighbours\bin\Debug\Problem_5.Larger_than_neighbours.pdb
-C:\Users\Valentin\Desktop\Homework Methods\Problem 5. Larger than neighbours\obj\Debug\Problem_5.Larger_than_neighbours.exe
-C:\Users\Valentin\Desktop\Homework Methods\Problem 5. Larger than neighbours\obj\Debug\Problem_5.Larger_than_neighbours.pdb
-C:\Users\Valentin\Desktop\Homework Methods\Problem 5. Larger than neighbours\obj\Debug\Problem 5. Larger than neighbours.csprojResolveAssemblyReference.cache

@@ -1,1 +1,0 @@
-C:\Users\Valentin\Desktop\C#\Homework Strings and Text Processing\Problem 20. Palindromes\bin\Debug\Problem_20.Palindromes.exe.config

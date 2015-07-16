@@ -1,5 +1,0 @@
-C:\Users\Valentin\Desktop\C# Projects and shits xD\Homework Arrays\Problem 5. Maximal increasing sequence\bin\Debug\Problem_5.Maximal_increasing_sequence.exe.config
-C:\Users\Valentin\Desktop\C# Projects and shits xD\Homework Arrays\Problem 5. Maximal increasing sequence\bin\Debug\Problem_5.Maximal_increasing_sequence.exe
-C:\Users\Valentin\Desktop\C# Projects and shits xD\Homework Arrays\Problem 5. Maximal increasing sequence\bin\Debug\Problem_5.Maximal_increasing_sequence.pdb
-C:\Users\Valentin\Desktop\C# Projects and shits xD\Homework Arrays\Problem 5. Maximal increasing sequence\obj\Debug\Problem_5.Maximal_increasing_sequence.exe
-C:\Users\Valentin\Desktop\C# Projects and shits xD\Homework Arrays\Problem 5. Maximal increasing sequence\obj\Debug\Problem_5.Maximal_increasing_sequence.pdb

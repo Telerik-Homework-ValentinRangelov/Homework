@@ -1,6 +1,0 @@
-C:\Users\Valentin\Desktop\C#\Homework Strings and Text Processing\Problem 3. Correct brackets\bin\Debug\Problem_3.Correct_brackets.exe.config
-C:\Users\Valentin\Desktop\C#\Homework Strings and Text Processing\Problem 3. Correct brackets\bin\Debug\Problem_3.Correct_brackets.exe
-C:\Users\Valentin\Desktop\C#\Homework Strings and Text Processing\Problem 3. Correct brackets\bin\Debug\Problem_3.Correct_brackets.pdb
-C:\Users\Valentin\Desktop\C#\Homework Strings and Text Processing\Problem 3. Correct brackets\obj\Debug\Problem 3. Correct brackets.csprojResolveAssemblyReference.cache
-C:\Users\Valentin\Desktop\C#\Homework Strings and Text Processing\Problem 3. Correct brackets\obj\Debug\Problem_3.Correct_brackets.exe
-C:\Users\Valentin\Desktop\C#\Homework Strings and Text Processing\Problem 3. Correct brackets\obj\Debug\Problem_3.Correct_brackets.pdb

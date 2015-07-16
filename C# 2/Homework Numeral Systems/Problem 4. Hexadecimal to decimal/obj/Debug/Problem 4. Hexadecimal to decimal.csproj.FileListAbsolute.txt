@@ -1,6 +1,0 @@
-C:\Users\Valentin\Desktop\C#\Homework\C# 2\Homework Numeral Systems\Problem 4. Hexadecimal to decimal\bin\Debug\Problem_4.Hexadecimal_to_decimal.exe.config
-C:\Users\Valentin\Desktop\C#\Homework\C# 2\Homework Numeral Systems\Problem 4. Hexadecimal to decimal\bin\Debug\Problem_4.Hexadecimal_to_decimal.exe
-C:\Users\Valentin\Desktop\C#\Homework\C# 2\Homework Numeral Systems\Problem 4. Hexadecimal to decimal\bin\Debug\Problem_4.Hexadecimal_to_decimal.pdb
-C:\Users\Valentin\Desktop\C#\Homework\C# 2\Homework Numeral Systems\Problem 4. Hexadecimal to decimal\obj\Debug\Problem 4. Hexadecimal to decimal.csprojResolveAssemblyReference.cache
-C:\Users\Valentin\Desktop\C#\Homework\C# 2\Homework Numeral Systems\Problem 4. Hexadecimal to decimal\obj\Debug\Problem_4.Hexadecimal_to_decimal.exe
-C:\Users\Valentin\Desktop\C#\Homework\C# 2\Homework Numeral Systems\Problem 4. Hexadecimal to decimal\obj\Debug\Problem_4.Hexadecimal_to_decimal.pdb

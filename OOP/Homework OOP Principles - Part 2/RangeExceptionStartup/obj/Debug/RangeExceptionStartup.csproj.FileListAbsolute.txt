@@ -1,8 +1,0 @@
-C:\Users\Valentin\Desktop\C#\Homework\OOP\Homework OOP Principles - Part 2\RangeExceptionStartup\bin\Debug\RangeExceptionStartup.exe.config
-C:\Users\Valentin\Desktop\C#\Homework\OOP\Homework OOP Principles - Part 2\RangeExceptionStartup\bin\Debug\RangeExceptionStartup.exe
-C:\Users\Valentin\Desktop\C#\Homework\OOP\Homework OOP Principles - Part 2\RangeExceptionStartup\bin\Debug\RangeExceptionStartup.pdb
-C:\Users\Valentin\Desktop\C#\Homework\OOP\Homework OOP Principles - Part 2\RangeExceptionStartup\bin\Debug\Range Exceptions.dll
-C:\Users\Valentin\Desktop\C#\Homework\OOP\Homework OOP Principles - Part 2\RangeExceptionStartup\bin\Debug\Range Exceptions.pdb
-C:\Users\Valentin\Desktop\C#\Homework\OOP\Homework OOP Principles - Part 2\RangeExceptionStartup\obj\Debug\RangeExceptionStartup.csprojResolveAssemblyReference.cache
-C:\Users\Valentin\Desktop\C#\Homework\OOP\Homework OOP Principles - Part 2\RangeExceptionStartup\obj\Debug\RangeExceptionStartup.exe
-C:\Users\Valentin\Desktop\C#\Homework\OOP\Homework OOP Principles - Part 2\RangeExceptionStartup\obj\Debug\RangeExceptionStartup.pdb

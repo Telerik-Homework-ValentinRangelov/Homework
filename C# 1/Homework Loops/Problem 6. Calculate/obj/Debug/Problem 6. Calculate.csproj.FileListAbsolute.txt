@@ -1,6 +1,0 @@
-C:\Users\Valentin\Desktop\C# Projects and shits xD\Homework Loops\Problem 6. Calculate\bin\Debug\Problem_6.Calculate.exe.config
-C:\Users\Valentin\Desktop\C# Projects and shits xD\Homework Loops\Problem 6. Calculate\bin\Debug\Problem_6.Calculate.exe
-C:\Users\Valentin\Desktop\C# Projects and shits xD\Homework Loops\Problem 6. Calculate\bin\Debug\Problem_6.Calculate.pdb
-C:\Users\Valentin\Desktop\C# Projects and shits xD\Homework Loops\Problem 6. Calculate\obj\Debug\Problem 6. Calculate.csprojResolveAssemblyReference.cache
-C:\Users\Valentin\Desktop\C# Projects and shits xD\Homework Loops\Problem 6. Calculate\obj\Debug\Problem_6.Calculate.exe
-C:\Users\Valentin\Desktop\C# Projects and shits xD\Homework Loops\Problem 6. Calculate\obj\Debug\Problem_6.Calculate.pdb

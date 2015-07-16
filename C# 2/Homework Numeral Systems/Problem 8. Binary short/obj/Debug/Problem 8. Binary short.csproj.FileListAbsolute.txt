@@ -1,5 +1,0 @@
-C:\Users\Valentin\Desktop\C#\Homework\C# 2\Homework Numeral Systems\Problem 8. Binary short\bin\Debug\Problem_8.Binary_short.exe.config
-C:\Users\Valentin\Desktop\C#\Homework\C# 2\Homework Numeral Systems\Problem 8. Binary short\bin\Debug\Problem_8.Binary_short.exe
-C:\Users\Valentin\Desktop\C#\Homework\C# 2\Homework Numeral Systems\Problem 8. Binary short\bin\Debug\Problem_8.Binary_short.pdb
-C:\Users\Valentin\Desktop\C#\Homework\C# 2\Homework Numeral Systems\Problem 8. Binary short\obj\Debug\Problem_8.Binary_short.exe
-C:\Users\Valentin\Desktop\C#\Homework\C# 2\Homework Numeral Systems\Problem 8. Binary short\obj\Debug\Problem_8.Binary_short.pdb

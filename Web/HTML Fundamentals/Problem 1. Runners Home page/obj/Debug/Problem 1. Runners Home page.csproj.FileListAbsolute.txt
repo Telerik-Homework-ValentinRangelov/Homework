@@ -1,6 +1,0 @@
-c:\users\valentin\Desktop\C#\Homework\HTML Fundamentals\Problem 1. Runners Home page\bin\Problem_1.Runners_Home_page.dll.config
-c:\users\valentin\Desktop\C#\Homework\HTML Fundamentals\Problem 1. Runners Home page\bin\Problem_1.Runners_Home_page.dll
-c:\users\valentin\Desktop\C#\Homework\HTML Fundamentals\Problem 1. Runners Home page\bin\Problem_1.Runners_Home_page.pdb
-c:\users\valentin\Desktop\C#\Homework\HTML Fundamentals\Problem 1. Runners Home page\obj\Debug\Problem 1. Runners Home page.csprojResolveAssemblyReference.cache
-c:\users\valentin\Desktop\C#\Homework\HTML Fundamentals\Problem 1. Runners Home page\obj\Debug\Problem_1.Runners_Home_page.dll
-c:\users\valentin\Desktop\C#\Homework\HTML Fundamentals\Problem 1. Runners Home page\obj\Debug\Problem_1.Runners_Home_page.pdb

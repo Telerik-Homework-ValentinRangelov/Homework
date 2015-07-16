@@ -1,6 +1,0 @@
-C:\Users\Valentin\Desktop\C#\Homework Strings and Text Processing\Problem 7. Encode decode\bin\Debug\Problem_7.Encode_decode.exe.config
-C:\Users\Valentin\Desktop\C#\Homework Strings and Text Processing\Problem 7. Encode decode\bin\Debug\Problem_7.Encode_decode.exe
-C:\Users\Valentin\Desktop\C#\Homework Strings and Text Processing\Problem 7. Encode decode\bin\Debug\Problem_7.Encode_decode.pdb
-C:\Users\Valentin\Desktop\C#\Homework Strings and Text Processing\Problem 7. Encode decode\obj\Debug\Problem 7. Encode decode.csprojResolveAssemblyReference.cache
-C:\Users\Valentin\Desktop\C#\Homework Strings and Text Processing\Problem 7. Encode decode\obj\Debug\Problem_7.Encode_decode.exe
-C:\Users\Valentin\Desktop\C#\Homework Strings and Text Processing\Problem 7. Encode decode\obj\Debug\Problem_7.Encode_decode.pdb
