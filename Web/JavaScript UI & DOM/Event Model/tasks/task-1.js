@@ -23,60 +23,56 @@ Create a function that takes an id or DOM element and:
 
 function solve(){
   return function (selector) {
-    var element,
-    classButton,
-    classContent,
-    buttonElement,
-    addListenerHere;
-    if(typeof selector !== 'string' && !(selector instanceof HTMLElement)){
-      throw new Error('Invalid selector');
-    }
-    if(typeof selector === 'string'){
-      element = document.getElementById(selector);
-      if(typeof element ==='undefined' || element === null){
-        throw new Error('Element is undefined or null');
-      }
-    }else{
-      element = selector;
-    }
-    classContent = document.querySelectorAll('.content'); 
-    classButton = document.querySelectorAll('.button');
-    if(classButton.length < 1){
-      return;
-    }
-    
-    for(buttonElement in classButton){
-      classButton[buttonElement].innerHTML = 'hide';
-      
-    }
-    
-    
-      
-    
-    addListenerHere = document.getElementById('root');
-    addListenerHere.addEventListener('click',theFunction,false);
-    function theFunction(ev){
-      if(ev.target.className ==='button'){
-        var target = ev.target;
-        var next = target;
-      
-      while(next){
-        if(next.className === 'content'){
-          break;
-        }
-        next = next.nextElementSibling;
-      }
-      if(next.style.display === ''){
-        target.innerHTML = 'show';
-        next.style.display = 'none';
-      }else if(next.style.display === 'none'){
-        target.innerHTML = 'hide';
-        next.style.display = '';
-      }
-    }
-    }
-    
+  	if(typeof(selector) !== 'string' && !(selector instanceof HTMLElement)){
+  		throw 'Neither a string nor an element';
+  	}
+
+  	if(document.getElementById(selector) === null){
+  		throw 'selects nothing';
+  	}
+
+  	var buttons = document.getElementsByClassName('button'),
+  		content = document.getElementsByClassName('content'),
+  		i, len;
+
+	for(i = 0, len = buttons.length; i < len; i+=1){
+		buttons[i].innerHTML = 'hide';
+		buttons[i].addEventListener('click', function(ev){
+			var clickedButton = ev.target;
+			var nextSibling = clickedButton.nextElementSibling;
+			var firstContent,
+				validFirstContent = false;
+
+			while(nextSibling){
+				if(nextSibling.className === 'content'){
+					firstContent = nextSibling;
+					nextSibling = nextSibling.nextSibling;
+					while(nextSibling){
+						if(nextSibling.className === 'button'){
+							validFirstContent = true;
+							break;
+						}
+						nextSibling = nextSibling.nextElementSibling;
+					}
+					break;
+				} else {
+					nextSibling = nextSibling.nextElementSibling;
+				}
+			}
+
+			if (validFirstContent) {
+				if (firstContent.style.display === 'none') {
+					firstContent.style.display = '';
+					clickedButton.innerHTML = 'hide';
+				} else {
+					firstContent.style.display = 'none';
+					clickedButton.innerHTML = 'show';
+				}
+			}
+
+		});
+	}
+
   };
 };
-
 module.exports = solve;
