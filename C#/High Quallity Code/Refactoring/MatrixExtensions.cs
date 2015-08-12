@@ -4,9 +4,10 @@ namespace MatrixHomework
 {
     public class MatrixExtensions
     {
-        public static void ChangeDirection(CurrentDirection currentDirection)
+        public static void ChangeDirection(Direction currentDirection)
         {
-            Directions directions = new Directions();
+            TestIfValueIsNull(currentDirection);
+            DirectionsTemplate directions = new DirectionsTemplate();
             int currentCount = 0;
             for (int count = 0; count < 8; count++)
             {
@@ -28,25 +29,28 @@ namespace MatrixHomework
         }
 
 
-        public static bool TestPassed(int[,] arr, int x, int y)
+        public static bool TestPassed(Matrix matrix, Position currentPosition)
         {
-            Directions directions = new Directions();
+            TestIfValueIsNull(matrix, currentPosition);
+            var arr = matrix.Map;
+            
+            DirectionsTemplate directions = new DirectionsTemplate();
 
             for (int i = 0; i < 8; i++)
             {
-                if (x + directions.X[i] >= arr.GetLength(0) || x + directions.X[i] < 0)
+                if (currentPosition.X + directions.X[i] >= arr.GetLength(0) || currentPosition.X + directions.X[i] < 0)
                 {
                     directions.X[i] = 0;
                 }
 
-                if (y + directions.Y[i] >= arr.GetLength(0) || y + directions.Y[i] < 0)
+                if (currentPosition.Y + directions.Y[i] >= arr.GetLength(0) || currentPosition.Y + directions.Y[i] < 0)
                 {
                     directions.Y[i] = 0;
                 }
             }
             for (int i = 0; i < 8; i++)
             {
-                if (arr[x + directions.X[i], y + directions.Y[i]] == 0)
+                if (arr[currentPosition.X + directions.X[i], currentPosition.Y + directions.Y[i]] == 0)
                 {
                     return true;
                 }
@@ -55,8 +59,10 @@ namespace MatrixHomework
             return false;
         }
 
-        public static void FindCell(int[,] arr, CurrentPosition currentPosition)
+        public static void FindCell(Matrix matrix, Position currentPosition)
         {
+            TestIfValueIsNull(matrix, currentPosition);
+            var arr = matrix.Map;
             currentPosition.X = 0;
             currentPosition.Y = 0;
             for (int i = 0; i < arr.GetLength(0); i++)
@@ -75,31 +81,33 @@ namespace MatrixHomework
 
         public static void PrintResultInConsole(Matrix matrix)
         {
-            double colsPerRows = Math.Sqrt(matrix.map.Length);
+            TestIfValueIsNull(matrix);
+            double colsPerRows = Math.Sqrt(matrix.Map.Length);
             for (int p = 0; p < colsPerRows; p++)
             {
                 for (int q = 0; q < colsPerRows; q++)
                 {
-                    Console.Write("{0,3}", matrix.map[p, q]);
+                    Console.Write("{0,3}", matrix.Map[p, q]);
                 }
 
                 Console.WriteLine();
             }
         }
 
-        public static void BuildMatrix(Matrix matrix,CurrentPosition currentPosition,CurrentDirection currentDirection)
+        public static void BuildMatrix(Matrix matrix,Position currentPosition,Direction currentDirection)
         {
-            double colsPerRows = Math.Sqrt(matrix.map.Length);
+            TestIfValueIsNull(matrix,currentPosition,currentDirection);
+            double colsPerRows = Math.Sqrt(matrix.Map.Length);
             int stepCount = 1;
             while (true)
             {
-                matrix.map[currentPosition.X, currentPosition.Y] = stepCount;
-                if (!TestPassed(matrix.map, currentPosition.X, currentPosition.Y))
+                matrix.Map[currentPosition.X, currentPosition.Y] = stepCount;
+                if (!TestPassed(matrix, currentPosition))
                 {
                     break;
                 }
 
-                while ((currentPosition.X + currentDirection.X >= colsPerRows || currentPosition.X + currentDirection.X < 0 || currentPosition.Y + currentDirection.Y >= colsPerRows || currentPosition.Y + currentDirection.Y < 0 || matrix.map[currentPosition.X + currentDirection.X, currentPosition.Y + currentDirection.Y] != 0))
+                while ((currentPosition.X + currentDirection.X >= colsPerRows || currentPosition.X + currentDirection.X < 0 || currentPosition.Y + currentDirection.Y >= colsPerRows || currentPosition.Y + currentDirection.Y < 0 || matrix.Map[currentPosition.X + currentDirection.X, currentPosition.Y + currentDirection.Y] != 0))
                 {
                     ChangeDirection(currentDirection);
                 }
@@ -109,6 +117,18 @@ namespace MatrixHomework
                 currentPosition.Y += currentDirection.Y;
                 stepCount++;
             }
+        }
+
+        private static void TestIfValueIsNull(params object[] values)
+        {
+            foreach (var item in values)
+            {
+                if (item == null)
+                {
+                    throw new Exception("Value cannot be null!");
+                }
+            }
+            
         }
     }
 }

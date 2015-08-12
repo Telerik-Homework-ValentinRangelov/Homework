@@ -7,10 +7,24 @@ namespace MatrixHomework
 {
     public class Matrix
     {
-        public int[,] map;
+        private int[,] map;
         public Matrix(int colsPerRows)
         {
-            map = new int[colsPerRows, colsPerRows];
+            if (colsPerRows < 1)
+            {
+                throw new Exception("Cols and Rows cannot be under 1!");
+            }
+            Map = new int[colsPerRows, colsPerRows];
         }
+        
+        public int[,] Map
+        {
+            get { return map; }
+            set
+            {
+                map = value;
+            }
+        }
+
     }
 }

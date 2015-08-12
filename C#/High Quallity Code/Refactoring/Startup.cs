@@ -17,13 +17,13 @@ namespace MatrixHomework
             //    Console.WriteLine( "You haven't entered a correct positive number" );
             //    input = Console.ReadLine(  );
             //}
-            int colsPerRows = 4;
+            int colsPerRows = 5;
             Matrix matrix = new Matrix(colsPerRows);
-            CurrentPosition currentPosition = new CurrentPosition(0, 0);
-            CurrentDirection currentDirection = new CurrentDirection(1, 1);
+            Position currentPosition = new Position(0, 0);
+            Direction currentDirection = new Direction(1, 1);
             MatrixExtensions.BuildMatrix(matrix,currentPosition,currentDirection);
             MatrixExtensions.PrintResultInConsole(matrix);
-            MatrixExtensions.FindCell(matrix.map, currentPosition);
+            MatrixExtensions.FindCell(matrix, currentPosition);
             
           
         }
